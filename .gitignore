@@ -1,0 +1,19 @@
+
+# macOS files
+.DS_Store
+
+# Jupyter temporary copies
+.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Local Python environments
+.venv/
+venv/
+
+# Private environment settings
+.env
+.env.*
+!.env.example
