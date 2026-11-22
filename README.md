@@ -13,5 +13,5 @@ Exploring Irish property prices and student habits.
 Python and JupyterLab.
 
 ## Contents
-- `Notebooks/` — analysis notebooks and datasets.
+- `Notebooks/` — housing and student analysis notebooks and csv files.
 - `docs/` — specification, project diary and presentation.
