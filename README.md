@@ -3,11 +3,15 @@
 **Student Number:** C00296605
 
 ## Overview
-Exploring Irish property sales from 2010–2024.
+Exploring Irish property prices and student habits.
+
+## Datasets
+- [Irish Property Price Register](https://www.kaggle.com/datasets/fionnhughes/property-price-register) by FionnHughes — sales from 2010–2024 are used.
+- [Student Sleep, Screen Time & Academic Performance](https://www.kaggle.com/datasets/aamir28/student-sleep-screen-time-and-academic-performance) by Muhammad Aamir — 500 generated student records.
 
 ## Tools
-Python and Jupyter Notebook.
+Python and JupyterLab.
 
 ## Contents
-- `Recorded-Housing-Prices/` — analysis notebook and related files.
-- `docs/` — portfolio specification and project diary.
+- `Notebooks/` — housing and student analysis notebooks and csv files.
+- `docs/` — specification, project diary and presentation.
